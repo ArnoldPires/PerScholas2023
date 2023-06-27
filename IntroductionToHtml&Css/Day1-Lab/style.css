@@ -1,0 +1,58 @@
+body {
+  font-family: cursive;
+  background-image: url("https://arnaldopires.com/cape-verdean-foods/assets/images/single-recipe.jpg");
+  text-align: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: left;
+}
+.content {
+  width: 45vw;
+  max-width: var(--max-width);
+  margin: 0 auto;
+  margin-top: 2rem;
+  min-height: calc(100vh - (6rem + 4rem));
+  border-radius: 10px;
+  padding: 0 1rem 1rem 1rem;
+  background-color: #fefefee0;
+}
+.img-contain {
+  display: flex;
+}
+.img-contain img {
+  padding: 2em;
+  height: 20em;
+  margin: 0 auto;
+  border-radius: 5em;
+  width: 40em;
+}
+.recipe-icons {
+  display: flex;
+  justify-content: space-evenly;
+}
+ul li {
+  list-style: none;
+  padding: 10px;
+}
+.directions {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 5px solid black;
+  text-align: left;
+  width: 39em;
+  margin: 0 auto;
+}
+ol li {
+  padding: 15px;
+}
+.directions img {
+  padding: 1em;
+  width: 20em;
+  height: 10em;
+}
+@media screen and (min-width: 480px) {
+  body {
+    background-color: lightgreen;
+  }
+}
