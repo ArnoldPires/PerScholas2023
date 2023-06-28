@@ -1,7 +1,7 @@
 # PerScholas2023
 My Journey through the Per Scholas Software Engineering Course 2023
+<h2>Pre Work:</h2>
 <ul>
-  <h2>Pre Work:</h2>
   <li>Pre Work SBA 1: 
     <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/PreWork/PreWork1">Code</a>
     <a href="https://arnaldopires.com/PerScholas2023/PreWork/PreWork1/index.html"> Website</a>
