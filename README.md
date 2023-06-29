@@ -14,8 +14,8 @@ My Journey through the Per Scholas Software Engineering Course 2023
 <h2>Labs:</h2>
 <ul>
   <li>Introduction to HTML & CSS:
-    <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/IntroductionToHtml&Css/Day1-Lab">Code</a>
-    <a href="https://arnaldopires.com/PerScholas2023/IntroductionToHtml&Css/Day1-Lab/index.html">Website</a>
+    <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Labs/Day1-Lab">Code</a>
+    <a href="https://arnaldopires.com/PerScholas2023/Labs/Day1-Lab/index.html">Website</a>
   </li>
 </ul>
 <h2>Homework:</h2>

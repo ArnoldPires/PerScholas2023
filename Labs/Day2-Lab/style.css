@@ -1,0 +1,80 @@
+html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: 'PT Serif', serif;
+  margin: 0;
+}
+h1, p {
+  text-align: center;
+}
+figure {
+  text-align: -webkit-center;
+}
+#image {
+  display: block;
+  max-width: 100%;
+  height: 30em;
+  object-fit: none;
+}
+h3 {
+  text-align: center;
+}
+img {
+  height: 10em;
+}
+#tribute-info {
+  text-align: center;
+  background-image: url("https://guildwars2.staticwars.com/wp-content/themes/guildwars2.com-live/img/og-img.f6214476.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+#tribute-info li {
+  list-style: none;
+  padding: 2em;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 2em;
+}
+#tribute-info ul {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  margin: 0 auto;
+  width: 45em;
+}
+#tribute-info img {
+  height: 13em;
+  width: 15em;
+  margin: 0 auto;
+  background-color: #f0ffffeb;
+  border-radius: 2em;
+}
+#gw2 {
+  background-color: #8a0a01e6;
+}
+#hot {
+  background-color: #2a4617f7;
+}
+#pof {
+  background-color: #c00064f2;
+}
+#eod {
+  background-color: #11d2bef0;
+}
+#soto {
+  background-color: #cf9b48ed;
+}
+.white {
+  color: white;
+}
+@media screen and (max-width: 680px) {
+  #tribute-info ul {
+    width: auto;
+  }
+}
