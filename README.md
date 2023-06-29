@@ -28,4 +28,8 @@ My Journey through the Per Scholas Software Engineering Course 2023
     <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Homework/homework1">Code</a>
     <a href="https://arnaldopires.com/PerScholas2023/Homework/homework1/index.html">Website</a>
   </li>
+  <li>Week 1 - Day 2 - Tell A Story HW: 
+    <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Homework/homework2">Code</a>
+    <a href="https://arnaldopires.com/PerScholas2023/Homework/homework2/index.html">Website</a>
+  </li>
 </ul>
