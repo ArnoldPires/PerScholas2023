@@ -29,6 +29,9 @@ My Journey through the Per Scholas Software Engineering Course 2023
     <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Labs/Day4-Lab">Code</a>
     <a href="https://arnaldopires.com/PerScholas2023/Labs/Day4-Lab/index.html">Website</a>
   </li>
+  <li>Episode X: A New Terminal:
+    <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Labs/Day5-Lab">Code</a>
+  </li>
 </ul>
 <h2>Homework:</h2>
 <ul>
