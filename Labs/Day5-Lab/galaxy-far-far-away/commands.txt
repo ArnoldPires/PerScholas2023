@@ -1,0 +1,72 @@
+Part I: Set the Scene
+Complete all work inside the galaxy-far-far-awayfolder.
+
+Create a directory called death_star, and make the following files inside of it: darth_vader.txt, princess_leia.txt, storm_trooper.txt
+In galaxy-far-far-away, make a directory named tatooineand create the following files in it: luke.txt, ben_kenobi.txt
+Inside of tatooinemake a directory called millenium_falcon, and in it create: han_solo.txt, chewbaca.txt
+
+
+
+Part II: mv- rename
+You can rename a file using the mvcommand.
+
+Rename ben_kenobi.txtto obi_wan.txt
+
+
+
+Part II: cp- copy
+You can copy a file from one location to another using the cpcommand. (man cpfor more info)
+
+Directories can be sibling (parrell to each other) or can be parents (the folder that contains the folder you are in)
+Copy storm_trooper.txtfrom death_starto tatooine
+
+
+
+Part IV: mv- move
+You can use the mvcommand to move files from one location to another. mvcan be used for renaming, moving, or both. Run man mvto see the options—remember hit the Qkey to get out of the manual page viewer.
+
+Move luke.txtand obi_wan.txtto the millenium_falcon
+Move millenium_falconout of tatooineand into galaxy-far-far-away
+Move millenium_falconinto death_star
+Move princess_leia.txtinto the millenium_falcon
+
+
+
+Part V: rm- remove
+BE CAREFUL WITH rm!!! THERE IS NO "TRASH" IN THE UNIX CLI. WHEN YOU DELETE SOMETHING IT IS GONE FOREVER!!!
+
+You can use rmto delete a file.
+
+Delete obi_wan.txt.
+
+
+
+Part VI: all together
+In galaxy-far-far-away, make a directory called yavin_4
+Move the millenium_falconout of the death_starand into yavin_4
+Make a directory in yavin_4called x_wing
+Move princess_leia.txtto yavin_4and luke.txtto x_wing
+Move the millenium_falconand x_wingout of yavin_4and into galaxy-far-far-away
+In death_star, create directories for tie_fighter_1, tie_fighter_2and tie_fighter_3
+Move darth_vader.txtinto tie_fighter_1
+Make a copy of storm_trooper.txtin both tie_fighter_2and tie_fighter_3
+Move all of the tie_fightersout of the death_starand into galaxy-far-far-away
+
+
+
+Part VII: rm -r: remove directories and everything they contain
+BE CAREFUL WITH rm -rTHERE IS NO TRASH CAN IN THE UNIX CLI. WHEN YOU DELETE SOMETHING IT IS GONE FOREVER
+
+Before you hit enter, make sure are deleting the right thing, or you could accidentally delete the contents of your computer (it has happened).
+
+This command will not typically ask you if you "really want to delete." It will just delete.
+
+Remove tie_fighter_2and tie_fighter_3
+
+
+
+Part VIII:
+Touch a file in x_wingcalled the_force.txt
+Destroy the death_starand anyone inside of it
+Return x_wingand the millenium_falconto yavin_4
+Celebrate. You've reached the end of this homework :)

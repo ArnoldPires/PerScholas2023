@@ -26,8 +26,8 @@ My Journey through the Per Scholas Software Engineering Course 2023
     <a href="https://arnaldopires.com/PerScholas2023/Labs/Day3-Lab/index.html">Website</a>
   </li>
   <li>E-Cardly:
-    <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Labs/Day4-lab">Code</a>
-    <a href="https://arnaldopires.com/PerScholas2023/Labs/Day4-lab/index.html">Website</a>
+    <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Labs/Day4-Lab">Code</a>
+    <a href="https://arnaldopires.com/PerScholas2023/Labs/Day4-Lab/index.html">Website</a>
   </li>
 </ul>
 <h2>Homework:</h2>
