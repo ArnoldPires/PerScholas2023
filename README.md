@@ -55,6 +55,7 @@ My Journey through the Per Scholas Software Engineering Course 2023
     <a href="https://arnaldopires.com/PerScholas2023/Homework/Week1-Day4-HW/index.html">Website</a>
   </li>
   <li>Week 2 - Day 3 - Codecademy, CSX, & Reading HW:
+    <br>
     <a href="https://www.codecademy.com/learn/introduction-to-javascript">Codecademy Link</a>
     <br>
     <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Homework/Week2-Day3-HW">Codecademy Work</a>
