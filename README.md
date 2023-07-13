@@ -56,9 +56,15 @@ My Journey through the Per Scholas Software Engineering Course 2023
   </li>
   <li>Week 2 - Day 3 - Codecademy, CSX, & Reading HW:
     <a href="https://www.codecademy.com/learn/introduction-to-javascript">Codecademy Link</a>
+    <br>
     <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Homework/Week2-Day3-HW">Codecademy Work</a>
+    <br>
     <a href="https://csx.codesmith.io/units/precourse-part-2">CSX Precourse - Part 2</a>
+    <br>
+    <a href="https://github.com/ArnoldPires/PerScholas2023/blob/main/Homework/Week2-Day3-HW/index.html">CSX Precourse - Part 2 answers</a>
+    <br>
     <a href="https://eloquentjavascript.net/00_intro.html">Eloquent JavaScript Intro</a>
+    <br>
     <a href="https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch1.md">You Don't Know JS Intro</a>
   </li>
 </ul>
