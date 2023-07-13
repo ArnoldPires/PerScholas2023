@@ -41,9 +41,13 @@ My Journey through the Per Scholas Software Engineering Course 2023
 </ul>
 <h2>Homework:</h2>
 <ul>
-  <li>Week 1 - Day 1 - Make A Card HW: 
-    <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Homework/Week1-Day1-HW">Code</a>
-    <a href="https://arnaldopires.com/PerScholas2023/Homework/Week1-Day1-HW/index.html">Website</a>
+  <li>Week 1 - Day 1 - Make A Card HW:
+    <li>
+      <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Homework/Week1-Day1-HW">Code</a>
+    </li>
+    <li>
+      <a href="https://arnaldopires.com/PerScholas2023/Homework/Week1-Day1-HW/index.html">Website</a>
+    </li>
   </li>
   <li>Week 1 - Day 2 - Tell A Story HW: 
     <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Homework/Week1-Day2-HW">Code</a>
