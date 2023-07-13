@@ -62,7 +62,7 @@ My Journey through the Per Scholas Software Engineering Course 2023
     <br>
     <a href="https://csx.codesmith.io/units/precourse-part-2">CSX Precourse - Part 2</a>
     <br>
-    <a href="https://github.com/ArnoldPires/PerScholas2023/blob/main/Homework/Week2-Day3-HW/index.html">CSX Precourse - Part 2 answers</a>
+    <a href="https://github.com/ArnoldPires/PerScholas2023/blob/main/Homework/Week2-Day3-HW/src/index.js">CSX Precourse - Part 2 answers</a>
     <br>
     <a href="https://eloquentjavascript.net/00_intro.html">Eloquent JavaScript Intro</a>
     <br>
