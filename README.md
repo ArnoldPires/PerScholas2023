@@ -35,6 +35,9 @@ My Journey through the Per Scholas Software Engineering Course 2023
   <li>Conditionals, if/else, & loops:
     <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Labs/Week2-Day3-Lab">Code</a>
   </li>
+  <li>While loops and some Functions:
+    <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Labs/Week2-Day4-Lab">Code</a>
+  </li>
 </ul>
 <h2>Homework:</h2>
 <ul>
@@ -59,8 +62,20 @@ My Journey through the Per Scholas Software Engineering Course 2023
     <a href="https://www.codecademy.com/learn/introduction-to-javascript">Codecademy Link</a>
     <br>
     <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Homework/Week2-Day3-HW">Codecademy Work</a>
+    <p>Challenge: For Loops, Loops & Arrays, For Loops and Array indices, For Loops Calculating Array Elements</p><a href="https://csx.codesmith.io/units/precourse-part-2">CSX Precourse - Part 2</a>
     <br>
-    <a href="https://csx.codesmith.io/units/precourse-part-2">CSX Precourse - Part 2</a>
+    <a href="https://github.com/ArnoldPires/PerScholas2023/blob/main/Homework/Week2-Day4-HW/src/index.js">CSX Precourse - Part 2 answers</a>
+    <br>
+    <a href="https://eloquentjavascript.net/00_intro.html">Eloquent JavaScript Intro</a>
+    <br>
+    <a href="https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch1.md">You Don't Know JS Intro</a>
+  </li>
+  <li>Week 2 - Day 4 - More Codecademy, More CSX, & same Reading HW:
+    <br>
+    <a href="https://www.codecademy.com/learn/introduction-to-javascript">Codecademy Link</a>
+    <br>
+    <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Homework/Week2-Day3-HW">Codecademy Work</a>
+    <p>Challenge: While Loops, Conditional Expression, Control Flow - if statements, Fizzbuzz</p><a href="https://csx.codesmith.io/units/precourse-part-2">CSX Precourse - Part 2</a>
     <br>
     <a href="https://github.com/ArnoldPires/PerScholas2023/blob/main/Homework/Week2-Day3-HW/src/index.js">CSX Precourse - Part 2 answers</a>
     <br>
