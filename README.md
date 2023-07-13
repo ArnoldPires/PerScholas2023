@@ -39,19 +39,26 @@ My Journey through the Per Scholas Software Engineering Course 2023
 <h2>Homework:</h2>
 <ul>
   <li>Week 1 - Day 1 - Make A Card HW: 
-    <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Homework/Week1-HW1">Code</a>
-    <a href="https://arnaldopires.com/PerScholas2023/Homework/Week1-HW1/index.html">Website</a>
+    <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Homework/Week1-Day1-HW">Code</a>
+    <a href="https://arnaldopires.com/PerScholas2023/Homework/Week1-Day1-HW/index.html">Website</a>
   </li>
   <li>Week 1 - Day 2 - Tell A Story HW: 
-    <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Homework/Week1-HW2">Code</a>
-    <a href="https://arnaldopires.com/PerScholas2023/Homework/Week1-HW2/index.html">Website</a>
+    <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Homework/Week1-Day2-HW">Code</a>
+    <a href="https://arnaldopires.com/PerScholas2023/Homework/Week1-Day2-HW/index.html">Website</a>
   </li>
   <li>Week 1 - Day 3 - Make A Robot! HW: 
-    <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Homework/Week1-HW3">Code</a>
-    <a href="https://arnaldopires.com/PerScholas2023/Homework/Week1-HW3/index.html">Website</a>
+    <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Homework/Week1-Day3-HW">Code</a>
+    <a href="https://arnaldopires.com/PerScholas2023/Homework/Week1-Day3-HW/index.html">Website</a>
   </li>
   <li>Week 1 - Day 4 - E-Cardly HW: 
-    <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Homework/Week1-HW4">Code</a>
-    <a href="https://arnaldopires.com/PerScholas2023/Homework/Week1-HW4/index.html">Website</a>
+    <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Homework/Week1-Day4-HW">Code</a>
+    <a href="https://arnaldopires.com/PerScholas2023/Homework/Week1-Day4-HW/index.html">Website</a>
+  </li>
+  <li>Week 2 - Day 3 - Codecademy, CSX, & Reading HW:
+    <a href="https://www.codecademy.com/learn/introduction-to-javascript">Codecademy Link</a>
+    <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Homework/Week2-Day3-HW">Codecademy Work</a>
+    <a href="https://csx.codesmith.io/units/precourse-part-2">CSX Precourse - Part 2</a>
+    <a href="https://eloquentjavascript.net/00_intro.html">Eloquent JavaScript Intro</a>
+    <a href="https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch1.md">You Don't Know JS Intro</a>
   </li>
 </ul>
