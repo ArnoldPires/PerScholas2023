@@ -67,16 +67,14 @@ My Journey through the Per Scholas Software Engineering Course 2023
   </li>
   <li>Week 2 - Day 3 - Codecademy, CSX, & Reading HW:
     <ul>
-      <li>Codecademy
+      <li><a href="https://www.codecademy.com/learn/introduction-to-javascript">Codecademy Link</a></li>
         <ul>
-          <li><a href="https://www.codecademy.com/learn/introduction-to-javascript">Codecademy Link</a></li>
           <li>Conditionals</li>
           <li>Functions</li>
           <li>Scope</li>
         </ul>
       </li>
       <li><a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Homework/Week2-Day3-HW">Codecademy Work Screenshot</a></li>
-      <li>
         <li><a href="https://csx.codesmith.io/units/precourse-part-2">CSX Precourse - Part 2 Link</a></li>
         <ul>
           <li>For Loops</li>
@@ -96,27 +94,21 @@ My Journey through the Per Scholas Software Engineering Course 2023
   </li>
   <li>Week 2 - Day 4 - More Codecademy, More CSX, & same Reading HW:
     <ul>
-      <li>
+      <li><a href="https://www.codecademy.com/learn/introduction-to-javascript">Codecademy Link</a></li>
         <ul>
-          <li><a href="https://www.codecademy.com/learn/introduction-to-javascript">Codecademy Link</a></li>
           <li>Arrays</li>
           <li>Loops</li>
           <li>Iterators</li>
         </ul>
-      </li>
       <li><a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Homework/Week2-Day4-HW">Codecademy Work Screenshot</a></li>
-      <li>CSX Precourse - Part 2:
+      <li><a href="https://csx.codesmith.io/units/precourse-part-2">CSX Precourse - Part 2 Link</a></li>
         <ul>
           <li>While Loops</li>
           <li>While Loops - Conditional Expression</li>
           <li>Control Flow - if statements</li>
           <li>Fizzbuzz</li>
         </ul>
-      </li>
-        <ul>
-          <li><a href="https://csx.codesmith.io/units/precourse-part-2">CSX Precourse - Part 2 Link</a></li>
-          <li><a href="https://github.com/ArnoldPires/PerScholas2023/blob/main/Homework/Week2-Day4-HW/src/index.js">CSX Precourse - Part 2 answers</a></li>
-        </ul>
+        <li><a href="https://github.com/ArnoldPires/PerScholas2023/blob/main/Homework/Week2-Day4-HW/src/index.js">CSX Precourse - Part 2 answers</a></li>
       </li>
       <li>Reading:
         <ul>
