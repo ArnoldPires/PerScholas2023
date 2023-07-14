@@ -42,49 +42,90 @@ My Journey through the Per Scholas Software Engineering Course 2023
 <h2>Homework:</h2>
 <ul>
   <li>Week 1 - Day 1 - Make A Card HW:
-    <li>
-      <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Homework/Week1-Day1-HW">Code</a>
-    </li>
-    <li>
-      <a href="https://arnaldopires.com/PerScholas2023/Homework/Week1-Day1-HW/index.html">Website</a>
-    </li>
+    <ul>
+      <li><a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Homework/Week1-Day1-HW">Code</a></li>
+      <li><a href="https://arnaldopires.com/PerScholas2023/Homework/Week1-Day1-HW/index.html">Website</a></li>
+    </ul>
   </li>
-  <li>Week 1 - Day 2 - Tell A Story HW: 
-    <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Homework/Week1-Day2-HW">Code</a>
-    <a href="https://arnaldopires.com/PerScholas2023/Homework/Week1-Day2-HW/index.html">Website</a>
+  <li>Week 1 - Day 2 - Tell A Story HW:
+    <ul>
+      <li><a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Homework/Week1-Day2-HW">Code</a></li>
+      <li><a href="https://arnaldopires.com/PerScholas2023/Homework/Week1-Day2-HW/index.html">Website</a></li>
+    </ul>
   </li>
   <li>Week 1 - Day 3 - Make A Robot! HW: 
-    <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Homework/Week1-Day3-HW">Code</a>
-    <a href="https://arnaldopires.com/PerScholas2023/Homework/Week1-Day3-HW/index.html">Website</a>
+    <ul>
+      <li><a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Homework/Week1-Day3-HW">Code</a></li>
+      <li><a href="https://arnaldopires.com/PerScholas2023/Homework/Week1-Day3-HW/index.html">Website</a></li>
+    </ul>
   </li>
   <li>Week 1 - Day 4 - E-Cardly HW: 
-    <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Homework/Week1-Day4-HW">Code</a>
-    <a href="https://arnaldopires.com/PerScholas2023/Homework/Week1-Day4-HW/index.html">Website</a>
+    <ul>
+      <li><a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Homework/Week1-Day4-HW">Code</a></li>
+      <li><a href="https://arnaldopires.com/PerScholas2023/Homework/Week1-Day4-HW/index.html">Website</a></li>
+    </ul>
   </li>
   <li>Week 2 - Day 3 - Codecademy, CSX, & Reading HW:
-    <br>
-    <a href="https://www.codecademy.com/learn/introduction-to-javascript">Codecademy Link</a>
-    <br>
-    <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Homework/Week2-Day3-HW">Codecademy Work</a>
-    <p>Challenge: For Loops, Loops & Arrays, For Loops and Array indices, For Loops Calculating Array Elements</p><a href="https://csx.codesmith.io/units/precourse-part-2">CSX Precourse - Part 2</a>
-    <br>
-    <a href="https://github.com/ArnoldPires/PerScholas2023/blob/main/Homework/Week2-Day4-HW/src/index.js">CSX Precourse - Part 2 answers</a>
-    <br>
-    <a href="https://eloquentjavascript.net/00_intro.html">Eloquent JavaScript Intro</a>
-    <br>
-    <a href="https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch1.md">You Don't Know JS Intro</a>
+    <ul>
+      <li>
+        <ul>
+          <li><a href="https://www.codecademy.com/learn/introduction-to-javascript">Codecademy Link</a></li>
+          <li>Conditionals</li>
+          <li>Functions</li>
+          <li>Scope</li>
+        </ul>
+      </li>
+      <li><a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Homework/Week2-Day3-HW">Codecademy Work Screenshot</a></li>
+      <li>
+        <ul>
+          <li>For Loops</li>
+          <li>Loops & Arrays</li>
+          <li>For Loops & Array indices</li>
+          <li>For Loops Calculating Array Elements</li>
+        </ul>
+        <ul>
+          <li><a href="https://csx.codesmith.io/units/precourse-part-2">CSX Precourse - Part 2 Link</a></li>
+          <li><a href="https://github.com/ArnoldPires/PerScholas2023/blob/main/Homework/Week2-Day3-HW/src/index.js">CSX Precourse - Part 2 answers</a></li>
+        </ul>
+      </li>
+      <li>Reading:
+        <ul>
+          <li><a href="https://eloquentjavascript.net/00_intro.html">Eloquent JavaScript Intro</a></li>
+          <li><a href="https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch1.md">You Don't Know JS Intro</a></li>
+        </ul>
+      </li>
+    </ul>
   </li>
   <li>Week 2 - Day 4 - More Codecademy, More CSX, & same Reading HW:
-    <br>
-    <a href="https://www.codecademy.com/learn/introduction-to-javascript">Codecademy Link</a>
-    <br>
-    <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Homework/Week2-Day3-HW">Codecademy Work</a>
-    <p>Challenge: While Loops, Conditional Expression, Control Flow - if statements, Fizzbuzz</p><a href="https://csx.codesmith.io/units/precourse-part-2">CSX Precourse - Part 2</a>
-    <br>
-    <a href="https://github.com/ArnoldPires/PerScholas2023/blob/main/Homework/Week2-Day3-HW/src/index.js">CSX Precourse - Part 2 answers</a>
-    <br>
-    <a href="https://eloquentjavascript.net/00_intro.html">Eloquent JavaScript Intro</a>
-    <br>
-    <a href="https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch1.md">You Don't Know JS Intro</a>
+    <ul>
+      <li>
+        <ul>
+          <li><a href="https://www.codecademy.com/learn/introduction-to-javascript">Codecademy Link</a></li>
+          <li>Arrays</li>
+          <li>Loops</li>
+          <li>Iterators</li>
+        </ul>
+      </li>
+      <li><a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Homework/Week2-Day4-HW">Codecademy Work Screenshot</a></li>
+      <li>CSX Precourse - Part 2:
+        <ul>
+          <li>While Loops</li>
+          <li>While Loops - Conditional Expression</li>
+          <li>Control Flow - if statements</li>
+          <li>Fizzbuzz</li>
+        </ul>
+      </li>
+        <ul>
+          <li><a href="https://csx.codesmith.io/units/precourse-part-2">CSX Precourse - Part 2 Link</a></li>
+          <li><a href="https://github.com/ArnoldPires/PerScholas2023/blob/main/Homework/Week2-Day4-HW/src/index.js">CSX Precourse - Part 2 answers</a></li>
+        </ul>
+      </li>
+      <li>Reading:
+        <ul>
+          <li><a href="https://eloquentjavascript.net/00_intro.html">Eloquent JavaScript Intro</a></li>
+          <li><a href="https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch1.md">You Don't Know JS Intro</a></li>
+        </ul>
+      </li>
+    </ul>
   </li>
 </ul>
