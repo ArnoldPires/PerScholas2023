@@ -74,7 +74,7 @@ My Journey through the Per Scholas Software Engineering Course 2023
           <li>Scope</li>
         </ul>
       </li>
-      <li><a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Homework/Week2-Day3-HW">Codecademy Work Screenshot</a></li>
+      <li><a href="https://github.com/ArnoldPires/PerScholas2023/blob/main/Homework/Week2-Day3-HW/codecademy1.JPG">Codecademy Work Screenshot</a></li>
         <li><a href="https://csx.codesmith.io/units/precourse-part-2">CSX Precourse - Part 2 Link</a></li>
         <ul>
           <li>For Loops</li>
@@ -100,7 +100,7 @@ My Journey through the Per Scholas Software Engineering Course 2023
           <li>Loops</li>
           <li>Iterators</li>
         </ul>
-      <li><a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Homework/Week2-Day4-HW">Codecademy Work Screenshot</a></li>
+      <li><a href="https://github.com/ArnoldPires/PerScholas2023/blob/main/Homework/Week2-Day4-HW/codecademy2.JPG">Codecademy Work Screenshot</a></li>
       <li><a href="https://csx.codesmith.io/units/precourse-part-2">CSX Precourse - Part 2 Link</a></li>
         <ul>
           <li>While Loops</li>
