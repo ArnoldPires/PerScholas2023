@@ -67,7 +67,7 @@ My Journey through the Per Scholas Software Engineering Course 2023
   </li>
   <li>Week 2 - Day 3 - Codecademy, CSX, & Reading HW:
     <ul>
-      <li>
+      <li>Codecademy
         <ul>
           <li><a href="https://www.codecademy.com/learn/introduction-to-javascript">Codecademy Link</a></li>
           <li>Conditionals</li>
@@ -77,16 +77,14 @@ My Journey through the Per Scholas Software Engineering Course 2023
       </li>
       <li><a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Homework/Week2-Day3-HW">Codecademy Work Screenshot</a></li>
       <li>
+        <li><a href="https://csx.codesmith.io/units/precourse-part-2">CSX Precourse - Part 2 Link</a></li>
         <ul>
           <li>For Loops</li>
           <li>Loops & Arrays</li>
           <li>For Loops & Array indices</li>
           <li>For Loops Calculating Array Elements</li>
         </ul>
-        <ul>
-          <li><a href="https://csx.codesmith.io/units/precourse-part-2">CSX Precourse - Part 2 Link</a></li>
-          <li><a href="https://github.com/ArnoldPires/PerScholas2023/blob/main/Homework/Week2-Day3-HW/src/index.js">CSX Precourse - Part 2 answers</a></li>
-        </ul>
+        <li><a href="https://github.com/ArnoldPires/PerScholas2023/blob/main/Homework/Week2-Day3-HW/src/index.js">CSX Precourse - Part 2 answers</a></li>
       </li>
       <li>Reading:
         <ul>
