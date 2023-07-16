@@ -38,6 +38,9 @@ My Journey through the Per Scholas Software Engineering Course 2023
   <li>While loops and some Functions:
     <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Labs/Week2-Day4-Lab">Code</a>
   </li>
+  <li>Functions:
+    <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Labs/Week1-Day1-Lab">Code</a>
+  </li>
 </ul>
 <h2>Homework:</h2>
 <ul>
