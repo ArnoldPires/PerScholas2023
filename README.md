@@ -121,4 +121,9 @@ My Journey through the Per Scholas Software Engineering Course 2023
       </li>
     </ul>
   </li>
+  <li>Week 3 - Day 1 - JavaScript Functions:
+    <ul>
+      <li><a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Homework/Week3-Day1-HW">Code</a></li>
+    </ul>
+  </li>
 </ul>
