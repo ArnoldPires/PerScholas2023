@@ -137,4 +137,9 @@ My Journey through the Per Scholas Software Engineering Course 2023
       <li><a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Homework/Week3-Day2-HW">Code</a></li>
     </ul>
   </li>
+  <li>Week 3 - Day 3 - Static Methods and Properties:
+    <ul>
+      <li><a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Homework/Week3-Day3-HW">Code</a></li>
+    </ul>
+  </li>
 </ul>
