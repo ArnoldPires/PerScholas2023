@@ -41,6 +41,12 @@ My Journey through the Per Scholas Software Engineering Course 2023
   <li>Functions:
     <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Labs/Week3-Day1-Lab">Code</a>
   </li>
+  <li>Objects:
+    <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Labs/Week3-Day2-Lab">Code</a>
+  </li>
+  <li>Objects & Orcs:
+    <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Labs/Week3-Day3-Lab">Code</a>
+  </li>
 </ul>
 <h2>Homework:</h2>
 <ul>
