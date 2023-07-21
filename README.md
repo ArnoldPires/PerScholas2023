@@ -145,4 +145,9 @@ My Journey through the Per Scholas Software Engineering Course 2023
       <li><a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Homework/Week3-Day3-HW">Code</a></li>
     </ul>
   </li>
+  <li>Week 3 - JavaScript Review:
+    <ul>
+      <li><a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Homework/Week3-JS-Review">Code</a></li>
+    </ul>
+  </li>
 </ul>
