@@ -50,6 +50,15 @@ My Journey through the Per Scholas Software Engineering Course 2023
   <li>Linked Lists:
     <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Labs/Week3-Day4-Lab">Code</a>
   </li>
+  <li>Intro to the DOM:
+    <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Labs/Week4-Day1-Lab">Code</a>
+  </li>
+</ul>
+<h2>Hacker Rank Problems:</h2>
+<ul>
+<li>Submissions:
+  <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/HackerRank">Files</a>
+<li>
 </ul>
 <h2>Homework:</h2>
 <ul>
