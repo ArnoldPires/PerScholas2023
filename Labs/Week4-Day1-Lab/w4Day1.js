@@ -17,6 +17,7 @@ minusOne("Infinity");
 function makeSentence(sent1, sent2, sent3) {
   return `${sent1} ${sent2} ${sent3}.`;
 }
+console.log(makeSentence('I', 'want', 'chimichangas'));
 console.log(makeSentence("Peter Pan", "picked a bunch of", "pickled peppers"))
 
 //Write a function called "getLastElement" that takes a parameter "arr".
@@ -27,3 +28,5 @@ function getLastElement(arr) {
 //The function should print the last element within the array.
 let elementArray = [10, 200, 3000, 40000, 50000];
 getLastElement(elementArray)
+getLastElement([1, 2, 3, 4, 5, 6])
+getLastElement([[1, 2, 3], [4, 5, 6]])
