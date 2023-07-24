@@ -58,7 +58,7 @@ My Journey through the Per Scholas Software Engineering Course 2023
 <ul>
 <li>Submissions:
   <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/HackerRank">Files</a>
-<li>
+</li>
 </ul>
 <h2>Homework:</h2>
 <ul>
