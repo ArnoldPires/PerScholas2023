@@ -56,6 +56,9 @@ My Journey through the Per Scholas Software Engineering Course 2023
   <li>JavaScript Total Recall:
     <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Labs/Week4-Day2-Lab">Code</a>
   </li>
+  <li>DOM Events JS:
+    <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Labs/Week5-Day2-Lab">Code</a>
+  </li>
 </ul>
 <h2>Hacker Rank Problems:</h2>
 <ul>
