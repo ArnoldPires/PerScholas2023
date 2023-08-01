@@ -56,8 +56,14 @@ My Journey through the Per Scholas Software Engineering Course 2023
   <li>JavaScript Total Recall:
     <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Labs/Week4-Day2-Lab">Code</a>
   </li>
+  <li>Arrays, Loops, and Conditional Reps:
+    <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Labs/Week4-Day3-Lab">Code</a>
+  </li>
   <li>DOM Events JS:
     <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Labs/Week5-Day2-Lab">Code</a>
+  </li>
+  <li>JavaScript Functions Lab:
+    <a href="https://replit.com/@ArnaldoPires/JavaScript-Functions-Lab">Code</a>
   </li>
 </ul>
 <h2>Hacker Rank Problems:</h2>
@@ -163,6 +169,21 @@ My Journey through the Per Scholas Software Engineering Course 2023
   <li>Week 3 - JavaScript Review:
     <ul>
       <li><a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Homework/Week3-JS-Review">Code</a></li>
+    </ul>
+  </li>
+  <li>Week 4 - Day 1 Classes Methods and Properties:
+    <ul>
+      <li><a href="https://github.com/ArnoldPires/PerScholas-Classes-Methods-and-Properties">Code</a></li>
+    </ul>
+  </li>
+  <li>Week 5 - Day 1 DOM Menu Lab 1:
+    <ul>
+      <li><a href="https://github.com/ArnoldPires/PerScholas-DOM/tree/menu-lab">Code</a></li>
+    </ul>
+  </li>
+  <li>Week 5 - Day 2 DOM Menu Lab 2:
+    <ul>
+      <li><a href="https://github.com/ArnoldPires/PerScholas-DOM/tree/menu-lab-part2">Code</a></li>
     </ul>
   </li>
 </ul>
