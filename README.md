@@ -65,6 +65,10 @@ My Journey through the Per Scholas Software Engineering Course 2023
   <li>JavaScript Functions Lab:
     <a href="https://replit.com/@ArnaldoPires/JavaScript-Functions-Lab">Code</a>
   </li>
+  <li>Intro to CSS Flexbox & Grid:
+    <a href="https://flexboxfroggy.com/">Flexbox Froggy</a>
+    <a href="https://cssgridgarden.com/">Grid Garden</a>
+  </li>
 </ul>
 <h2>Hacker Rank Problems:</h2>
 <ul>
@@ -184,6 +188,24 @@ My Journey through the Per Scholas Software Engineering Course 2023
   <li>Week 5 - Day 2 DOM Menu Lab 2:
     <ul>
       <li><a href="https://github.com/ArnoldPires/PerScholas-DOM/tree/menu-lab-part2">Code</a></li>
+    </ul>
+  </li>
+  <li>Week 5 - Day 3 DOM Manipulation:
+    <ul>
+      <li><a href="https://github.com/ArnoldPires/manipulate-the-dom">Project Repo</a></li>
+    </ul>
+  </li>
+</ul>
+<h2>Projects:</h2>
+<ul>
+  <li>Week 6 - Save the Universe: 
+    <ul>
+      <li><a href="https://github.com/ArnoldPires/Space_Battle_starter_code">Space_Battle_starter_code</a></li>
+    </ul>
+  </li>
+  <li>Week 6 - The Game: 
+    <ul>
+      <li><a href="https://github.com/ArnoldPires/Last-Stand-Horde-Siege">Last-Stand-Horde-Siege</a></li>
     </ul>
   </li>
 </ul>
