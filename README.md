@@ -69,6 +69,9 @@ My Journey through the Per Scholas Software Engineering Course 2023
     <a href="https://flexboxfroggy.com/">Flexbox Froggy</a>
     <a href="https://cssgridgarden.com/">Grid Garden</a>
   </li>
+  <li>React:
+    <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Labs/react">Code</a>
+  </li>
 </ul>
 <h2>Hacker Rank Problems:</h2>
 <ul>
