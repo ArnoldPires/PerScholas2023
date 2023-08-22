@@ -82,6 +82,18 @@ My Journey through the Per Scholas Software Engineering Course 2023
   <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/HackerRank">Files</a>
 </li>
 </ul>
+<h2>Projects:</h2>
+<ul>
+  <li>Week 6 - Save the Universe: 
+    <ul>
+      <li><a href="https://github.com/ArnoldPires/Space_Battle_starter_code">Space_Battle_starter_code</a></li>
+    </ul>
+  </li>
+  <li>Week 6 - The Game: 
+    <ul>
+      <li><a href="https://github.com/ArnoldPires/Last-Stand-Horde-Siege">Last-Stand-Horde-Siege</a></li>
+    </ul>
+  </li>
 <h2>Homework:</h2>
 <ul>
   <li>Week 1 - Day 1 - Make A Card HW:
@@ -202,16 +214,4 @@ My Journey through the Per Scholas Software Engineering Course 2023
     </ul>
   </li>
 </ul>
-<h2>Projects:</h2>
-<ul>
-  <li>Week 6 - Save the Universe: 
-    <ul>
-      <li><a href="https://github.com/ArnoldPires/Space_Battle_starter_code">Space_Battle_starter_code</a></li>
-    </ul>
-  </li>
-  <li>Week 6 - The Game: 
-    <ul>
-      <li><a href="https://github.com/ArnoldPires/Last-Stand-Horde-Siege">Last-Stand-Horde-Siege</a></li>
-    </ul>
-  </li>
 </ul>
