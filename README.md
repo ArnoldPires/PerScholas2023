@@ -72,6 +72,9 @@ My Journey through the Per Scholas Software Engineering Course 2023
   <li>React:
     <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Labs/react">Code</a>
   </li>
+  <li>Questions about React
+    <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Labs/Week7-Day3-Lab">Code</a>
+  </li>
 </ul>
 <h2>Hacker Rank Problems:</h2>
 <ul>
