@@ -1,0 +1,11 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  width: 100vw;
+}
+input {
+  height: 40px;
+  background-color: cornflowerblue;
+  text-align: center;
+}

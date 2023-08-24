@@ -1,0 +1,15 @@
+.Board {
+    flex: 5;
+    background-color: bisque;
+}
+
+.Board ul {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+li {
+    background-color: brown;
+}
