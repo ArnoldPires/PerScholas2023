@@ -94,6 +94,11 @@ My Journey through the Per Scholas Software Engineering Course 2023
       <li><a href="https://github.com/ArnoldPires/Last-Stand-Horde-Siege">Last-Stand-Horde-Siege</a></li>
     </ul>
   </li>
+  <li>Week 7 - React Card Game 
+    <ul>
+      <li><a href="">Card Game</a></li>
+    </ul>
+  </li>
 <h2>Homework:</h2>
 <ul>
   <li>Week 1 - Day 1 - Make A Card HW:
