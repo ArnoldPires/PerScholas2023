@@ -72,8 +72,11 @@ My Journey through the Per Scholas Software Engineering Course 2023
   <li>React:
     <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Labs/react">Code</a>
   </li>
-  <li>Questions about React
+  <li>Questions about React:
     <a href="https://github.com/ArnoldPires/PerScholas2023/tree/main/Labs/Week7-Day3-Lab">Code</a>
+  </li>
+  <li>SPAs with Multiple Pages:
+    <a href="https://github.com/ArnoldPires/React-SPAs-MultiplePages">Repo</a>
   </li>
 </ul>
 <h2>Hacker Rank Problems:</h2>
@@ -216,6 +219,21 @@ My Journey through the Per Scholas Software Engineering Course 2023
   <li>Week 5 - Day 3 DOM Manipulation:
     <ul>
       <li><a href="https://github.com/ArnoldPires/manipulate-the-dom">Project Repo</a></li>
+    </ul>
+  </li>
+  <li>Week 7 - Day 3 State and Props:
+    <ul>
+      <li><a href="https://github.com/ArnoldPires/React-Employees">Project Repo</a></li>
+    </ul>
+  </li>
+  <li>Week 8 - Day 3 React Students:
+    <ul>
+      <li><a href="https://github.com/ArnoldPires/React-Student-Data-and-Scores">Project Repo</a></li>
+    </ul>
+  </li>
+  <li>Week 8 - Day 4 React Router Stock App:
+    <ul>
+      <li><a href="https://github.com/ArnoldPires/React-Router-Stock-App">Project Repo</a></li>
     </ul>
   </li>
 </ul>
